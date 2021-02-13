@@ -7,6 +7,7 @@
  - Modelo de configuração e re-configuração para o meu assistente escolar.
 
 # AVISO
+-Se quiser ver o repositório original [Clique Aqui](https://github.com/Felipe2102/Assistente-Escolar)
 - Caso você encontrar um bug [Click-aqui](https://github.com/Felipe2102/Assistente-Escolar-setup-model/issues/new) e crie uma issue para eu poder corrigir.
 
 
@@ -15,7 +16,7 @@
  
 # Download
 Baixe diretamente do github:
- - Versão mais recente: https://github.com/Felipe2102/Assistente-Escolar/releases/
+ - Versão mais recente: https://github.com/Felipe2102/Assistente-Escolar-setup-model.git
 
 # Uso
   -Rode o programa no terminal para testar
