@@ -7,21 +7,21 @@
  - Modelo de configuração e re-configuração para o meu assistente escolar.
 
 # AVISO
--Se quiser ver o repositório original [Clique Aqui](https://github.com/Felipe2102/Assistente-Escolar)
+- Se quiser ver o repositório original [Clique Aqui](https://github.com/Felipe2102/Assistente-Escolar)
 - Caso você encontrar um bug [Click-aqui](https://github.com/Felipe2102/Assistente-Escolar-setup-model/issues/new) e crie uma issue para eu poder corrigir.
 
 
 # Características
-  -Possibilidade de redefinição das aulas
+  - Possibilidade de redefinição das aulas
  
 # Download
-Baixe diretamente do github:
+Git clone:
  - Versão mais recente: https://github.com/Felipe2102/Assistente-Escolar-setup-model.git
 
 # Uso
-  -Rode o programa no terminal para testar
+  - Rode o programa no terminal para testar
 
 # Requerimentos caso seja usado o código fonte:
- -Python3 
- -PySimpleGUI
+ - Python3
+ - PySimpleGUI
  
