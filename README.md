@@ -21,7 +21,7 @@ Git clone:
 # Uso
   - Rode o programa no terminal para testar
 
-# Requerimentos caso seja usado o código fonte:
+# Requisitos:
  - Python3
  - PySimpleGUI
  
